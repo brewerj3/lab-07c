@@ -1,0 +1,28 @@
+###############################################################################
+###         University of Hawaii, College of Engineering
+### @brief  Lab 07c - My First Cat - EE 205 - Spr 2022
+###
+### @file .gitignore
+### @version 1.0
+###
+### Tells git which files to ignore
+###
+### @author @todo yourName <@todo yourMail@hawaii.edu>
+### @date   @todo dd_mmm_yyyy
+###############################################################################
+
+# Ignore all object files
+*.o
+
+# Ignore the executable file
+hello1
+hello2
+hello3
+a.out
+
+# Ignore a hidden file for MacOS filesystems
+.DS_Store
+
+# Ignore vi swap files
+.*.swp
+
