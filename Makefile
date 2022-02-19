@@ -39,7 +39,7 @@ test: hello1 hello2 hello3
 	./hello1
 	./hello2
 	./hello3
-	
-	
+
+
 clean:
 	rm -f hello1 hello2 hello3 *.o
