@@ -7,8 +7,8 @@
 ###
 ### Tells git which files to ignore
 ###
-### @author @todo yourName <@todo yourMail@hawaii.edu>
-### @date   @todo dd_mmm_yyyy
+### @author Joshua Brewer <brewerj3@hawaii.edu>
+### @date   23_Feb_2022
 ###############################################################################
 
 # Ignore all object files

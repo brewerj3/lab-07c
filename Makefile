@@ -7,8 +7,8 @@
 ###
 ### Build and test 3 Hello World Programs
 ###
-### @author  @author @todo yourName <@todo yourMail@hawaii.edu>
-### @@date   @todo dd_mmm_yyyy
+### @author  Joshua Brewer <brewerj3@hawaii.edu>
+### @@date   23_Feb_2022
 ###
 ### @see     https://www.gnu.org/software/make/manual/make.html
 ###############################################################################
