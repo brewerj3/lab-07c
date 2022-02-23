@@ -12,5 +12,15 @@
 ///
 ///
 //////////////////////////////////////////////////////////////////////////////
+#include <iostream>
+class Cat {
+public:
+    void sayHello() {
+        std::cout << "Meow" << std::endl;
+    }
+};
 
-int main() {}
+int main() {
+    Cat myCat;
+    myCat.sayHello();
+}
