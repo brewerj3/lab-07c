@@ -5,7 +5,7 @@
 /// @file    hello2.cpp
 /// @version 1.0 - Initial implementation
 ///
-/// @todo @add description
+/// Output Hello World! without using namespace std
 ///
 /// @author  Joshua Brewer <brewerj3@hawaii.edu>
 /// @@date   23_Feb_2022
@@ -15,5 +15,6 @@
 #include <iostream>
 
 int main() {
-    std::cout<<"Hello World"<<std::endl;
+    std::cout<<"Hello World!"<<std::endl;
+    return 0;
 }

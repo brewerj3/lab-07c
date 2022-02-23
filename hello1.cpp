@@ -5,7 +5,7 @@
 /// @file    hello1.cpp
 /// @version 1.0 - Initial implementation
 ///
-/// @todo @add description
+/// Output Hello World! using namespace std
 ///
 /// @author  Joshua Brewer <brewerj3@hawaii.edu>
 /// @@date   23_Feb_2022

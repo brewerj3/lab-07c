@@ -5,7 +5,7 @@
 /// @file    hello3.cpp
 /// @version 1.0 - Initial implementation
 ///
-/// @todo @add description
+/// Uses a class to output to the console
 ///
 /// @author  Joshua Brewer <brewerj3@hawaii.edu>
 /// @@date   23_Feb_2022
@@ -23,4 +23,5 @@ public:
 int main() {
     Cat myCat;
     myCat.sayHello();
+    return 0;
 }
